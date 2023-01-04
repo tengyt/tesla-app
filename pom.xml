@@ -95,14 +95,14 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-releases/</url> 
+	      <name>Tengy Releases Nexus Repository</name>
+	      <url>http://3.235.198.91:8081/repository/tengy-fe-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-snapshots/</url>
+	      <name>tengy snapshots repository</name>
+	      <url>http://3.235.198.91:8081/repository/tengy-fe-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
